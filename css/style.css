@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin-bottom: 100px;
+}
+.navbar-brand img{
+    width: 200px;
+}
+.btn{
+    padding: 8px 20px !important;
+    cursor: pointer;
+    border-radius: 20px;
+    background-color: #21B573;
+    color: white;
+}
+.nav-item{
+    padding: 20px 25px;
+    font-weight: bold;
+}
+.nav-item a:hover{
+    text-decoration: underline;
+}
+.row-costom{
+    padding: 35px 0px;
+    margin-top: 30px;
+}
+.main-title{
+    font-size: 65px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+.img-costomiz img{
+    width: 500px;
+}
+.bg-color{
+    background-color: #F0FFF0;
+}
+.item img{
+    width: 80px;
+    margin: 0 auto;
+}
+.mid-section{
+    color: #413960;
+    text-align: center;
+}
+.box-shados{
+    box-shadow:1px 1px 20px 3px grey; 
+
+}
+.item{
+    padding: 15px 10px;
+    background-color: #f4fbf8;
+    width: 455px;
+    border: none;
+    border-radius: 5px;
+    transition: 0.5s;
+}
+.box-s{
+    background-color: white;
+    box-shadow: 5px 5px 10px gray;
+}
+.text-center{
+    color: #413960;
+    font-weight: bold;
+}
+.t-colors{
+    color: #413960;
+}
+.pycho{
+    padding: 20px 15px;
+    border: none;
+    box-shadow: 0px 0px 10px 0px rgb(224, 223, 223);
+    border-radius: 10px;
+    margin-top: 50px;
+    transition: 0.5s;
+}
+.pycho:hover{
+    transform: scale(1.2);
+}
+.card-f{
+    font-size: 14px;
+    margin-top: 20px;
+}
+.far{
+    margin-right: 6px;
+}
+.t-end{
+    text-align: end;
+    position: relative;
+    top: -38px;
+}
+.bg h1{
+    text-align: center;
+    font-weight: bold;
+}
+.content{
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 30px;
+    overflow: hidden;
+}
+.content img{
+    width: 120px;
+}
+.img-area{
+    width: 20%;
+    float: left;
+}
+.text-area{
+    width: 70%;
+    float: left;
+}
+.text-area p{
+    padding: 20px 30px;
+}
+footer{
+    background-color: #282531;
+    padding: 50px 0px 10px 0px;
+}
+.footer-card{
+    background: none;
+    border: none;
+}
+.pera{
+    margin-top: 20px;
+}
+#m-control{
+    margin-bottom: 0px ;
+}
+hr{
+    width: 150px;
+    border-bottom: 5px solid rgb(0, 240, 0);
+    margin: 0 auto;
+}
+.item:hover{
+    box-shadow:1px 1px 20px 3px grey;
+}
